@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSpicer
 - 👀 I’m interested in Full stack web development and mobile development
-- 🌱 I’m currently learning Android/Kotlin
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.justinspicer.com
 
